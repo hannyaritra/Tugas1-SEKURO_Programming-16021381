@@ -22,3 +22,4 @@ g. git help -> untuk melihat semua perintah git
 2. Staging Area -> memberitahu git bahwa sudah dilakukan perubahan -> tersimpan dalam folder .git
 3. History -> akan tersimpan dalam folder .git
 
+![image](https://user-images.githubusercontent.com/73069670/153604709-96c24ffd-53c7-4b59-a544-fce06b39ae2b.png)
