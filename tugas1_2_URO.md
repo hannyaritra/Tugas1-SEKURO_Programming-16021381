@@ -24,3 +24,13 @@
 8. Pilih main branch atau new branch
 9. Klik Commit New File
 10. File sudah dapat dilihat
+
+**Mengubah File dan Melihat Perubahan Commit**
+1. Klik file yang akan diubah
+2. Klik edit
+3. Edit file
+4. Tuliskan perubahan file di kolom commit changes
+5. Klik Commit File
+6. Klik file
+7. Klik History
+8. Perubahan file dapat terlihat
